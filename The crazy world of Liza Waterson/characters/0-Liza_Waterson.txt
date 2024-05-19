@@ -1,0 +1,7 @@
+Name:                Liza Waterson
+ID:                  0
+Importance:          2
+POV:                 True
+Full Summary:        Родилась в РБ.  В 5 лет, перехала в Москву.  Перехала в Elmore
+                     Любит себя называть Вотерсон Лиза Гамболовна
+Color:               #00fdff
