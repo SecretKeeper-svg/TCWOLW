@@ -12,7 +12,7 @@
     "countSpaces": true,
     "defaultTextType": "md",
     "dict": null,
-    "dontShowDeleteWarning": false,
+    "dontShowDeleteWarning": true,
     "folderView": "cork",
     "frequencyAnalyzer": {
         "phraseMax": 5,
@@ -20,17 +20,20 @@
         "wordExclude": "a, and, or",
         "wordMin": 1
     },
-    "fullScreenTheme": "spacedreams",
+    "fullScreenTheme": "\u043d\u043e\u0432\u0430\u044f\u0442\u0435\u043c\u0430",
     "fullscreenSettings": {
         "autohide-bottom": true,
         "autohide-left": true,
-        "autohide-top": true
+        "autohide-top": true,
+        "clock-show-seconds": true,
+        "progress-auto-show": true,
+        "title-show-full-path": true
     },
     "lastTab": 6,
     "openIndexes": [
         0,
         [
-            "4"
+            "11"
         ],
         null
     ],
@@ -66,17 +69,17 @@
         "cursorNotBlinking": false,
         "cursorWidth": 1,
         "focusMode": false,
-        "font": ".AppleSystemUIFont,13,-1,5,50,0,0,0,0,0",
+        "font": "Apple Braille,13,-1,5,50,0,0,0,0,0",
         "fontColor": "#000000",
         "indent": false,
         "lineSpacing": 100,
         "marginsLR": 0,
         "marginsTB": 20,
-        "maxWidth": 600,
+        "maxWidth": 0,
         "misspelled": "#F00",
         "spacingAbove": 5,
         "spacingBelow": 5,
-        "tabWidth": 20,
+        "tabWidth": 24,
         "textAlignment": 0
     },
     "viewMode": "fiction",
