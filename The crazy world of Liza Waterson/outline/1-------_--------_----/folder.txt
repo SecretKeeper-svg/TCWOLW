@@ -2,6 +2,7 @@ title:          Первый школьный день
 ID:             15
 type:           folder
 compile:        2
+customIcon:     green-folder
 charCount:      2348
 
 

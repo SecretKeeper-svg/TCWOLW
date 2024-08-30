@@ -2,6 +2,7 @@ title:          Потерянное
 ID:             27
 type:           folder
 compile:        2
-charCount:      1840
+customIcon:     green-folder
+charCount:      2278
 
 
