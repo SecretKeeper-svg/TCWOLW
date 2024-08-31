@@ -1,7 +1,8 @@
 title:          Мистическая кошка
 ID:             2
 type:           folder
-compile:        2
-charCount:      7366
+compile:        0
+customIcon:     green-folder
+charCount:      9103
 
 
